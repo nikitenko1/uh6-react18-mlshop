@@ -16,3 +16,8 @@ REACT_APP_CLOUD_NAME= `https://console.cloudinary.com/console` Cloud Name
 export const cloudinaryUrlImage = `https://api.cloudinary.com/v1_1/${process.env.REACT_APP_CLOUD_NAME}/image/upload`;
 
 ## Shop Pages screenshots
+![1](https://github.com/nikitenko1/uh6-0-tailwind-shop/assets/20661870/f543a2d9-5711-4767-85c4-0a9c8acc5aa2)
+![5](https://github.com/nikitenko1/uh6-0-tailwind-shop/assets/20661870/ea6dae28-5b69-465f-9b86-4af21cf774e2)
+![4](https://github.com/nikitenko1/uh6-0-tailwind-shop/assets/20661870/955aa23c-0536-4adb-bc45-70bb3b23b9de)
+![3](https://github.com/nikitenko1/uh6-0-tailwind-shop/assets/20661870/c08c1ef5-36b3-40a3-ab08-cbe2cb501478)
+![2](https://github.com/nikitenko1/uh6-0-tailwind-shop/assets/20661870/f70fe6be-28e5-419a-993b-c96fcf94f040)
